@@ -1,3 +1,10 @@
 dfhsdsdksdsdsdvksvsd
 sjdvjsdvsdvs
+<<<<<<< HEAD
 hjvjhfdjvfjfvdfsvsdffdslg
+=======
+
+sdafasdfvssdsdvsdv,mn vsv sc vsvsd
+]vslvslvlsv;s
+vlsdlvsdm vsd'vsdvslvslvsdlkv;'s
+>>>>>>> da87d0596df79e71e5a0cd3b9b4ac21c394f6a69
